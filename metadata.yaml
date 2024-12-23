@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '43322'
     url: http://www.gutenberg.org/2009/agents/43322
     wikipedia: https://fi.wikipedia.org/wiki/Aukusti_Simojoki
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Meinhardt, Adalbert
     gutenberg_agent_id: '57715'
     url: http://www.gutenberg.org/2009/agents/57715
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74900#Hyvan-uskoja
 gutenberg_issued: '2024-12-14'
 gutenberg_type: Text
 identifiers:
